@@ -14,7 +14,15 @@ $ docker-compose up -d --build
 $ vim /etc/hosts  # add 127.0.0.1 www.symfony4.docker
 ```
 
-## App index
-Check app here: http://www.symfony4.docker
+## preview
+http://www.symfony4.docker
+
+##SSH on aya_app container :
+
+```
+$ docker ps
+$ docker exec -it [CONTANER_ID|CONTANER_NAME] /bin/bash  #aya_app
+$ composer install
+```
 
 
