@@ -17,7 +17,7 @@ $ vim /etc/hosts  # add 127.0.0.1 www.symfony4.loc
 ## preview
 http://www.symfony4.loc
 
-##SSH on aya_app container :
+##SSH on eric_app container :
 
 ```
 $ docker ps
