@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name www.symfony4.docker;
+    server_name www.symfony4.loc;
     root /var/www/app/public;
 
     location / {

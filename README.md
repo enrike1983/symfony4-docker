@@ -11,11 +11,11 @@ Ensure to have docker installed, otherwise download and configure it [HERE](http
 
 ```
 $ docker-compose up -d --build
-$ vim /etc/hosts  # add 127.0.0.1 www.symfony4.docker
+$ vim /etc/hosts  # add 127.0.0.1 www.symfony4.loc
 ```
 
 ## preview
-http://www.symfony4.docker
+http://www.symfony4.loc
 
 ##SSH on aya_app container :
 
