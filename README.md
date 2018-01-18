@@ -21,7 +21,7 @@ http://www.symfony4.loc
 
 ```
 $ docker ps
-$ docker exec -it [CONTANER_ID|CONTANER_NAME] /bin/bash  #aya_app
+$ docker exec -it dockerosx_eric_app_1 /bin/bash  #eric_app
 $ composer install
 ```
 
